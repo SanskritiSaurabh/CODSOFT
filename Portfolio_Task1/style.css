@@ -44,6 +44,9 @@ nav a:hover {
         rgba(15,23,42,0.9),
         rgba(15,23,42,0.6)
     );
+    background-image: url('download.jpeg');
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .hero-content {
